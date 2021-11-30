@@ -9,7 +9,6 @@
 #include "core.dl"
 
 
-#include "VFlow.dl"
 .decl LyjRules(var:symbol)
 .output LyjRules
 .decl LLyjVarPointsTo(?value:Value, ?ctx:mainAnalysis.configuration.Context, ?var:Var, ?var2:Var)
