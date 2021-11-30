@@ -41,5 +41,4 @@
     InitHContextRequest(?value),
     ?hctx = [?value].
  
-  .init mFlow = Flow
 }
